@@ -10,7 +10,7 @@ export const Home = () => {
                 <RevealOnScroll>
                     <div className="flex justify-center">
                     <img 
-                        src={selfPortrait} 
+                        src="/venetialiu/self_portrait.png" 
                         alt="Portrait of Venetia Liu"
                         className="w-1/2 md:w-2/3 md:max-w-sm mt-100 mb-3"
                     />
