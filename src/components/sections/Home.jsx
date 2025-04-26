@@ -9,11 +9,12 @@ export const Home = () => {
             <div>
                 <RevealOnScroll>
                     <div className="flex justify-center">
-                        <img 
-                            src="/venetialiu/self_portrait.png" 
-                            alt="Portrait of Venetia Liu" 
-                            className="w-1/2 md:w-2/3 md:max-w-sm mt-8 mb-3"
-                        />
+                    <img 
+                        src={selfPortrait} 
+                        alt="Portrait of Venetia Liu"
+                        className="w-1/2 md:w-2/3 md:max-w-sm mb-3"
+                        style={{ marginTop: '10%' }}
+                    />
                     </div>
                     <div className="text-center z-10 px-4">
                         <h1 className="text-5xl md:text-7xl font-bold mb-6">
