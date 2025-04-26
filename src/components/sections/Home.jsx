@@ -10,7 +10,7 @@ export const Home = () => {
                 <RevealOnScroll>
                     <div className="flex justify-center">
                         <img 
-                            src="/self_portrait.png" 
+                            src="/venetialiu/self_portrait.png" 
                             alt="Portrait of Venetia Liu" 
                             className="w-1/2 md:w-2/3 md:max-w-sm mt-8 mb-3"
                         />
@@ -42,7 +42,7 @@ export const Home = () => {
                 className="absolute top-[46%] right-[10%] group"
             >
                 <img 
-                src="/monster_project.png" 
+                src="/venetialiu/monster_project.png" 
                 alt="Little Project Monster" 
                 className="w-23 md:w-37 object-contain cursor-pointer"
                 />
@@ -55,7 +55,7 @@ export const Home = () => {
                 className="absolute top-[20%] right-[76%] group"
             >
                 <img 
-                src="/monster_about.png" 
+                src="/venetialiu/monster_about.png" 
                 alt="Little About Monster" 
                 className="w-27 md:w-46 object-contain cursor-pointer"
                 />
