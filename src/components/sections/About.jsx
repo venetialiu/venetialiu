@@ -123,7 +123,7 @@ export const About = () => {
 
                             <div className="flex justify-between items-center">
                                 <a 
-                                    href="/Venetia_Liu_Resume.pdf"
+                                    href="/venetialiu/Venetia_Liu_Resume.pdf"
                                     download
                                     className="hover:text-[#93886C] transition-colors my-4"
                                 >
