@@ -12,7 +12,7 @@ export const Home = () => {
                     <img 
                         src={selfPortrait} 
                         alt="Portrait of Venetia Liu"
-                        className="w-1/2 md:w-2/3 md:max-w-sm mt-15 mb-3"
+                        className="w-1/2 md:w-2/3 md:max-w-sm mt-20 mb-3"
                     />
                     </div>
                     <div className="text-center z-10 px-4">
