@@ -14,6 +14,28 @@ export const Projects = () => {
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="p-6 rounded-xl border border-[#93886C] hover:-translate-y-1 hover:border-[#33290D] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.6)] transition-all">
+                            <h3 className="text-xl font-bold mb-2">Real-Time Stock Price Dashboard</h3>
+                            <p className="mb-4">A responsive web application displaying real-time stock data.</p>
+                            <div className="flex flex-wrap gap-2 mb-4">
+                                {["React", "TailwindCSS", "Node.js"].map((tech, key) => (
+                                    <span 
+                                        key={key}
+                                        className="bg-[#F6F5E9] py-1 px-3 rounded-full text-sm hover:bg-[#E4E2CC] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.2)] transition"
+                                    >
+                                        {tech}
+                                    </span>
+                                ))}
+                            </div>
+                            <div className="flex justify-between items-center">
+                                <a 
+                                    href="https://github.com/venetialiu/stock-dashboard/"
+                                    className="hover:text-[#93886C] transition-colors my-4"
+                                >
+                                    View Project →
+                                </a>
+                            </div>
+                        </div>
+                        <div className="p-6 rounded-xl border border-[#93886C] hover:-translate-y-1 hover:border-[#33290D] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.6)] transition-all">
                             <h3 className="text-xl font-bold mb-2">URL Shortener</h3>
                             <p className="mb-4">A fullstack web application that allows users to create short and easy-to-share URLs from long and complex ones</p>
                             <div className="flex flex-wrap gap-2 mb-4">
