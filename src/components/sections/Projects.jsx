@@ -17,7 +17,7 @@ export const Projects = () => {
                             <h3 className="text-xl font-bold mb-2">Real-Time Stock Price Dashboard</h3>
                             <p className="mb-4">A responsive web application displaying real-time stock data.</p>
                             <div className="flex flex-wrap gap-2 mb-4">
-                                {["React", "TailwindCSS", "Node.js"].map((tech, key) => (
+                                {["React", "TailwindCSS", "Chart.js", "Axios"].map((tech, key) => (
                                     <span 
                                         key={key}
                                         className="bg-[#F6F5E9] py-1 px-3 rounded-full text-sm hover:bg-[#E4E2CC] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.2)] transition"
