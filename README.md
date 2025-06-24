@@ -19,7 +19,7 @@
 - Personal website [link](https://venetialiu.github.io/venetialiu/#home)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/venetialiu/venetialiu/blob/main/public/Venetia_Liu_Resume.pdf)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -60,9 +60,6 @@
 <br>
 
 -----
-
-<br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
