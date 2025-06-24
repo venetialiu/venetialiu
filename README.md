@@ -53,27 +53,25 @@
 
 <br>
 -----
-<br>
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
+
+## <b> Let's Connect..! </b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50">
+
+<div align="left">
 
 <ul>
+  <li>
+    <a href="https://www.linkedin.com/in/venetia-liu/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Venetia%20Liu-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </li>
 
-<li>
-<a href="https://www.linkedin.com/in/venetia-liu/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:-VenetiaLiu-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br>
-
-
-<li>
-<a href="mailto:vl2289@nyu.edu" target="_blank">
-<img src="https://img.shields.io/badge/gmail:-vl2289@nyu.edu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</li>
-	
+  <li>
+    <a href="mailto:vl2289@nyu.edu" target="_blank">
+      <img src="https://img.shields.io/badge/Email-vl2289@nyu.edu-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </li>
 </ul>
+
 </div>
 
 <br>
