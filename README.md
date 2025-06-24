@@ -8,12 +8,8 @@
 
 <br>
 
-
-
 	
 ## 💡 **About me**
-
-<br>
 
 - 🎓 CS Major @ NYU, Minor in Data Science  
 - 🛠️ Full-stack developer with experience in React, Node.js, Flask, and MongoDB
@@ -38,8 +34,6 @@
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
 <br>   
     
 - **Frontend**:
@@ -47,8 +41,6 @@
     ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
     ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
 <br>
 
 - **Backend / Cloud**:
@@ -57,8 +49,6 @@
     ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-    
 <br>
 
 - **Softwares and Tools**:
@@ -67,18 +57,10 @@
     ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-<br>
-
-</p>
-
-<br>
 <br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -106,17 +88,9 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
 <div align='center'>
 
 </div>
-<br>
-<br>
-<br>
-<br>
-
 ---
-
 <br>
