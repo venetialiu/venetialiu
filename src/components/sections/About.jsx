@@ -137,7 +137,7 @@ Programming, Data Structures, Algorithms, Operating Systems, Linear Algebra, Dis
 
                             <div className="flex justify-between items-center">
                                 <a 
-                                    href="/venetialiu/public/Venetia_Liu_Resume.pdf"
+                                    href={`${import.meta.env.BASE_URL}Venetia_Liu_Resume.pdf`}
                                     download
                                     className="hover:text-[#93886C] transition-colors my-4"
                                 >
