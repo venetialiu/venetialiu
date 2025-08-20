@@ -6,6 +6,7 @@ export const About = () => {
         "Java",
         "Python",
         "JavaScript",
+        "TypeScript",
         "C",
         "SQL",
         "HTML/CSS",
@@ -13,15 +14,19 @@ export const About = () => {
       
       const frameworks = [
         "React",
+        "React Native",
         "Next.js",
         "Node.js",
-        "Tailwind"
+        "Tailwind",
+        "Expo", 
+        "Apollo (GraphQL)"
       ];
       
       const tools = [
         "Git",
         "Figma",
         "MongoDB",
+        "Docker", 
         "AWS",
         "Flask",
         "Spline",
@@ -96,6 +101,22 @@ export const About = () => {
                         </div>
                         <div className="p-6 rounded-xl border border-[#93886C] border hover:-translate-y-1 transition-all">
                             <h3 className="text-xl font-bold mb-3 flex flex-col">Work Experience</h3>
+                            <h3 className="mb-2 flex flex-col">
+                                <strong>Software Engineer Intern @Quanticore</strong>
+                                <ul className="font-normal list-disc list-inside space-y-4">
+                                        <li>
+                                            <em>July 2025 - Present</em>
+                                        </li>
+                                </ul>
+                            </h3>
+                            <h3 className="mb-2 flex flex-col">
+                                <strong>Software Engineer Intern @RGTN</strong>
+                                <ul className="font-normal list-disc list-inside space-y-4">
+                                        <li>
+                                            <em>June 2025 - August 2025</em>
+                                        </li>
+                                </ul>
+                            </h3>
                             <h3 className="mb-2 flex flex-col">
                                 <strong>Data Science Intern @LiTV</strong>
                                 <ul className="font-normal list-disc list-inside space-y-4">
