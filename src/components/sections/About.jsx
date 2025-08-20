@@ -133,14 +133,6 @@ export const About = () => {
                                         </li>
                                 </ul>
                             </h3>
-                            <h3 className="mb-1 flex flex-col">
-                                <strong>Director of Marketing @GLO</strong>
-                                <ul className="font-normal list-disc list-inside space-y-4">
-                                        <li>
-                                            <em>May 2023 - January 2024</em>
-                                        </li>
-                                </ul>
-                            </h3>
 
                             <div className="flex justify-between items-center">
                                 <a 
