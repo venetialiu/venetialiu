@@ -20,11 +20,11 @@ export const Home = () => {
                             I'm Venetia Liu.
                         </h1>
 
-                        <h5 className="text-lg mb-8 max-w-lg mx-auto">
+                        <p className="text-lg mb-4 max-w-lg mx-auto">
                             A Coder that Designs.
-                        </h5>
+                        </p>
                         <p className="text-lg mb-8 max-w-lg mx-auto">
-                            ( A.K.A A Software Engineer studying Computer Science & Data Science at NYU )
+                            ( A Software Engineer studying Computer Science & Data Science at NYU. )
                         </p>
                         <div className="flex justify-center space-x-4">
                             <a href="#projects" className="bg-[#EEEDDC] py-3 px-6 rounded-full font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(51, 41, 13, 0.4)]">
