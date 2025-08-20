@@ -95,7 +95,8 @@ export const About = () => {
                             </h3>
                             <ul className="list-disc list-inside space-y-2">
                                 <li>
-                                    <strong>Relevant Coursework:</strong> Data Structures, Algorithms, Operating Systems, Data Management & Analysis, Linear Algebra, Discrete Mathematics
+                                    <strong>Relevant Coursework:</strong> Agile Software Development & DevOps, Front-End Web, Data Management & Analysis, Object Oriented
+Programming, Data Structures, Algorithms, Operating Systems, Linear Algebra, Discrete Mathematics
                                 </li>
                             </ul>
                         </div>
