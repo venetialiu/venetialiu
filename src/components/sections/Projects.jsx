@@ -36,6 +36,28 @@ export const Projects = () => {
                             </div>
                         </div>
                         <div className="p-6 rounded-xl border border-[#93886C] hover:-translate-y-1 hover:border-[#33290D] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.6)] transition-all">
+                            <h3 className="text-xl font-bold mb-2">Shuwa: Sign Language Translation Real-Time Meeting App</h3>
+                            <p className="mb-4">A live video conference app designed to translate sign language into summarized text during a meeting, recognizing short and simple signs through a web cam and display translated short summary captions.</p>
+                            <div className="flex flex-wrap gap-2 mb-4">
+                                {["React", "Node.js", "Socket.io", "Google OAuth", "WebRTC", "MongoDB"].map((tech, key) => (
+                                    <span 
+                                        key={key}
+                                        className="bg-[#F6F5E9] py-1 px-3 rounded-full text-sm hover:bg-[#E4E2CC] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.2)] transition"
+                                    >
+                                        {tech}
+                                    </span>
+                                ))}
+                            </div>
+                            <div className="flex justify-between items-center">
+                                <a 
+                                    href="https://github.com/agile-students-fall2025/4-final-gesturetalk"
+                                    className="hover:text-[#93886C] transition-colors my-4"
+                                >
+                                    View Project →
+                                </a>
+                            </div>
+                        </div>
+                        <div className="p-6 rounded-xl border border-[#93886C] hover:-translate-y-1 hover:border-[#33290D] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.6)] transition-all">
                             <h3 className="text-xl font-bold mb-2">AI Twin: Venesha</h3>
                             <p className="mb-4">An AI chatbot (twin) version of my portfolio website.</p>
                             <div className="flex flex-wrap gap-2 mb-4">
@@ -51,6 +73,28 @@ export const Projects = () => {
                             <div className="flex justify-between items-center">
                                 <a 
                                     href="https://github.com/venetialiu/ai_twin"
+                                    className="hover:text-[#93886C] transition-colors my-4"
+                                >
+                                    View Project →
+                                </a>
+                            </div>
+                        </div>
+                        <div className="p-6 rounded-xl border border-[#93886C] hover:-translate-y-1 hover:border-[#33290D] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.6)] transition-all">
+                            <h3 className="text-xl font-bold mb-2">CSV Data Dashboard</h3>
+                            <p className="mb-4">A web application that allows users to upload a CSV file containing sales data and visualize it through tables, charts, and summary statistics.</p>
+                            <div className="flex flex-wrap gap-2 mb-4">
+                                {["React", "TailwindCSS", "Papa Parse", "ReCharts"].map((tech, key) => (
+                                    <span 
+                                        key={key}
+                                        className="bg-[#F6F5E9] py-1 px-3 rounded-full text-sm hover:bg-[#E4E2CC] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.2)] transition"
+                                    >
+                                        {tech}
+                                    </span>
+                                ))}
+                            </div>
+                            <div className="flex justify-between items-center">
+                                <a 
+                                    href="https://github.com/venetialiu/csv-data-dashboard"
                                     className="hover:text-[#93886C] transition-colors my-4"
                                 >
                                     View Project →
@@ -101,50 +145,7 @@ export const Projects = () => {
                                 </a>
                             </div>
                         </div>
-                        <div className="p-6 rounded-xl border border-[#93886C] hover:-translate-y-1 hover:border-[#33290D] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.6)] transition-all">
-                            <h3 className="text-xl font-bold mb-2">Real-Time AI Q&A Website</h3>
-                            <p className="mb-4">A full-stack real-time interactive web application leveraging the OpenAI API for dynamic, personalized Q&A functionality about the developer.</p>
-                            <div className="flex flex-wrap gap-2 mb-4">
-                                {["React", "TailwindCSS", "Node.js", "Three.js", "AWS"].map((tech, key) => (
-                                    <span 
-                                        key={key}
-                                        className="bg-[#F6F5E9] py-1 px-3 rounded-full text-sm hover:bg-[#E4E2CC] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.2)] transition"
-                                    >
-                                        {tech}
-                                    </span>
-                                ))}
-                            </div>
-                            <div className="flex justify-between items-center">
-                                <a 
-                                    href="http://octavate-dev2.us-east-1.elasticbeanstalk.com/ai"
-                                    className="hover:text-[#93886C] transition-colors my-4"
-                                >
-                                    View Project →
-                                </a>
-                            </div>
-                        </div>
-                        <div className="p-6 rounded-xl border border-[#93886C] hover:-translate-y-1 hover:border-[#33290D] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.6)] transition-all">
-                            <h3 className="text-xl font-bold mb-2">Geospatial Analysis for Shaping Public Policy</h3>
-                            <p className="mb-4">Conducted geospatial analysis and visualized insights to identify flood-prone areas, providing actionable policy recommendations for low-income communities.</p>
-                            <div className="flex flex-wrap gap-2 mb-4">
-                                {["Python", "Seaborn", "Matplotlib", "Pandas"].map((tech, key) => (
-                                    <span 
-                                        key={key}
-                                        className="bg-[#F6F5E9] py-1 px-3 rounded-full text-sm hover:bg-[#E4E2CC] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.2)] transition"
-                                    >
-                                        {tech}
-                                    </span>
-                                ))}
-                            </div>
-                            <div className="flex justify-between items-center">
-                                <a 
-                                    href="https://github.com/kkrysw/Datathon2024"
-                                    className="hover:text-[#93886C] transition-colors my-4"
-                                >
-                                    View Project →
-                                </a>
-                            </div>
-                        </div>
+                       
                     </div>
 
                 </div>
