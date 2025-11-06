@@ -35,7 +35,6 @@ export const Projects = () => {
                                 </a>
                             </div>
                         </div>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="p-6 rounded-xl border border-[#93886C] hover:-translate-y-1 hover:border-[#33290D] hover:shadow-[0_2px_8px_rgba(51, 41, 13, 0.6)] transition-all">
                             <h3 className="text-xl font-bold mb-2">AI Twin: Venesha</h3>
                             <p className="mb-4">An AI chatbot (twin) version of my portfolio website.</p>
