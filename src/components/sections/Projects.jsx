@@ -1,4 +1,5 @@
-import { RevealOnScroll } from "../RevealOnScroll";
+import { RevealOnScroll } from "../../RevealOnScroll";
+
 
 export const Projects = () => {
 
